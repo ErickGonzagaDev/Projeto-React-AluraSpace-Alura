@@ -1,4 +1,4 @@
-Nesse projeto, foram aprendidos os seguintes topicos:
+# Nesse projeto, foram aprendidos os seguintes topicos:
 
  - Como organizar pastas e arquivos de seu projeto
  - Implementar componentes da Interface do Usuário
